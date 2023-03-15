@@ -10,12 +10,7 @@ public class HomeController {
         return "Hello world!";
     }
 
-
-    //rebrand test
-
-    //hhff
-
-    //hhh
+ //I love you!!!!! not
 
 
     //dette er den sidste test med merge 

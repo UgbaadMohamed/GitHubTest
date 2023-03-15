@@ -11,7 +11,8 @@ public class HomeController {
     }
 
 
-    //hej dett er en merege test 
+    //rebrand test 
+
 
 
 }

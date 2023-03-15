@@ -17,5 +17,6 @@ public class HomeController {
 
     // med ikhra og munuira
 
-    // den nyeste 
+    // den nyeste
+    // du er en bad ass
 }

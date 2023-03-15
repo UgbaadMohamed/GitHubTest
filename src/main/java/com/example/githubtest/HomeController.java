@@ -10,15 +10,7 @@ public class HomeController {
         return "Hello world!";
 
     }
+    //UGbaad has a fatass
 
-    // kommentar
-    //hh
 
-    //git
-
-    // med ikhra og munuira
-
-    // den nyeste
-    // du er en bad ass
-    //hej mann
 }

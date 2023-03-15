@@ -19,4 +19,5 @@ public class HomeController {
 
     // den nyeste
     // du er en bad ass
+    //hej mann
 }
